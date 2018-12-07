@@ -1,14 +1,6 @@
 /**
  * This class describes the attributes and behaviour
  * of a library book.
- * 
- * Analyse and document this class by adding
- * JavaDoc and other comments to explain the purpose of
- * the instance variables and the behaviour of
- * the methods.
- * 
- * @author Paul Sage
- *
  */
 public class Book {
 	private int id;
