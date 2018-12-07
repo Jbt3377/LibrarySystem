@@ -1,0 +1,2 @@
+# LibrarySystem
+This is a finished program, covering most of the topics from the first semester of my Programming Module. It is a practice system I developed to aid in revision for the final programming assessment of Semester 1. It was developed individually and during study group sessions over several days. Some of the topics the project focuses on are; arrays, array lists, switch statements, loops, classes, objects and methods (the basics)
